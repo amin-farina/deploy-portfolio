@@ -22,7 +22,7 @@ export default function Home() {
             </div>
 
             <a
-              href="/assets/files/CV - Sebastian Amin Fariña .pdf"
+              href="/assets/files/Fariña-SebastianAmin--cv.pdf"
               download
               className="bg-white w-1/2 my-6 flex justify-center text center text-black py-2 hover:bg-black hover:text-white hover:border-white border font-bold rounded-lg"
             >
