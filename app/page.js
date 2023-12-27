@@ -9,7 +9,7 @@ export default function Home() {
       <div className="container mx-auto">
         <div className="flex">
           <div className="flex flex-col justify-center w-1/2 min-h-[80vh] space-y-4">
-            <h1 class="font-bold text-[3rem]">Sebastián Amin, Fariña</h1>
+            <h1 class="font-bold text-[3rem]">Sebastián Amin</h1>
             <div className="italic">
               <p>
                 I am Full Stack Developer, I have experience using modern
