@@ -4,12 +4,11 @@ import Link from "next/link"
 import { usePathname } from 'next/navigation'
 import "../public/assets/css/navbar.css"
 
-
+//    { name: 'About', href: '/about' },
 export function NavBar() {
     const pathname = usePathname();
     const links = [
         { name: 'Home', href: '/' },
-        { name: 'About', href: '/about' },
         { name: 'Contact', href: '/contact' },
 
     ]
